@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+YUKTI VIVEK's profile
 <!--
 **Yukti-20/Yukti-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 ▪️ My skills include :
 🔹️Programming Language: C, C++, Python
 🔹️Problem Solving Skills: Datastructure & Algorithms , OOPs
@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about C++, SQL and FrontEnd Web Development(HTML5, CSS3 and JavaScript)
 - 📫 How to reach me: https://www.linkedin.com/in/yuvi20/
 - 😄 Pronouns: She/Her
-- 
--->
