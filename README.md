@@ -14,6 +14,6 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on DSA and OS
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m working as an Intern in cppsecrets
-- 💬 Ask me about C++, SQL and FrontEnd Web Development(HTML5, CSS3 and JavaScript)
+- 💬 Ask me about C++, SQL and FrontEnd Web Development(HTML5, CSS3 and JavaScript + Php)
 - 📫 How to reach me: https://www.linkedin.com/in/yuvi20/
 - 😄 Pronouns: She/Her
