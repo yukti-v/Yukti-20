@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 ▪️ My skills include :
 🔹️Programming Language: C, C++, Python
 🔹️Problem Solving Skills: Datastructure & Algorithms , OOPs
-🔹️Web Development: Html 5 , CSS 3 , Javascript
+🔹️Web Development: Html 5 , CSS 3 , Javascript , Php
 🔹️Framework & Tools : Git , VS Code
 🔹️Database : Mysql
 
