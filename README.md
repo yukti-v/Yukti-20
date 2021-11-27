@@ -15,9 +15,9 @@ Here are some ideas to get you started:-->
 
 🔹️Database : Mysql
 
-- 🔭 I’m currently working on ReactJS and Operating System
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m working as an Intern in LetsGrowMore.
+- 🔭 I’m currently working on ReactJS and Operating System.
+- 🌱 I’m currently learning Machine Learning.
+- 👯 I’m working on a project in the domain Artificial Intelligence.
 - 💬 Ask me about C++, SQL and FrontEnd Web Development(HTML5, CSS3 and JavaScript + Php)
 - 📫 How to reach me: https://www.linkedin.com/in/yuvi20/
 - 😄 Pronouns: She/Her
